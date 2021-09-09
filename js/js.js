@@ -1,4 +1,5 @@
-$(function(){
+
+$(function(){    
     $('.carousel-item').eq(0).addClass('active');
     var total = $('.carousel-item').length;
     var current = 0;
