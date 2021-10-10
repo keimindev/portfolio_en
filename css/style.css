@@ -521,18 +521,22 @@ nav {
 }
 
 .carousel-item--2 .carousel-item__image {
-  background-image: url('../img/mapty.gif');
+  background-image: url('../img/comfort.gif');
 }
 
 .carousel-item--3 .carousel-item__image {
-  background-image: url('../img/dashboard.gif');
+  background-image: url('../img/mapty.gif');
 }
 
 .carousel-item--4 .carousel-item__image {
-  background-image: url('../img/hyundaicard.gif');
+  background-image: url('../img/dashboard.gif');
 }
 
 .carousel-item--5 .carousel-item__image {
+  background-image: url('../img/hyundaicard.gif');
+}
+
+.carousel-item--6 .carousel-item__image {
   background-image: url('../img/herenow.gif');
 }
 
